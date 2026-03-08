@@ -1,10 +1,10 @@
 export const APP_CONFIG = {
   // アプリケーション名（ヘッダーやサイドバーに表示）
-  appName: 'AIケアマネジメント [施設B用]',
+  appName: 'AIケアマネジメント [施設C用]',
   
   // 施設・事業所情報（帳票のデフォルト値として使用）
   facility: {
-    name: '施設B',
+    name: '施設C',
     address: '東京都〇〇区〇〇 1-2-3',
     phone: '03-0000-0000',
     managerName: '介護 太郎',
@@ -12,7 +12,7 @@ export const APP_CONFIG = {
   // ログイン情報（施設ごとに変更してください）
   auth: {
     email: 'facility-b@example.com',
-    password: '1289ab',
+    password: '7912kp',
   },
 
   // 印刷設定のデフォルト値
